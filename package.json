@@ -17,5 +17,9 @@
     "image"
   ],
   "author": "alextheman99",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+  "@alextheman99:registry": "https://npm.pkg.github.com"
 }
+}
+
